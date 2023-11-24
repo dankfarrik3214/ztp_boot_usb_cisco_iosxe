@@ -10,7 +10,7 @@ Can be used with:
 - **Cisco IOS-XE device**
 - **DHCP server**
 - **ZTP Server**
-- **ZTP pythone file**
+- **ZTP python file**
 
 ## Example
 
@@ -21,3 +21,7 @@ If you have a Cisco IOS-XE device that needs to receive it's DHCP options via an
 - **Run Guest shell**
 - **Run ztp python file**
 - **Destory Guest shell**
+
+## Usage
+
+Save the ciscortr.cfg on a usb fat32 drive and put it in a Cisco IOS-XE device. Make sure there is not a configuration present on the device itself and reboot it with the stick inserted.
