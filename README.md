@@ -1,4 +1,4 @@
-# Ztp boot usb cisco iosxe
+# ZTP boot usb Cisco IOS-XE
 
 Bootable USB stick for device with Cisco IOS-XE for ZTP.
 
